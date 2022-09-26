@@ -1,5 +1,5 @@
 body{
-    color: #f3a0f7;
+    color: white;
     background-color: #000000;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -21,7 +21,7 @@ header img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #5bbe42;
+    border: 5px solid #f159af;
 }
 
 .center{
